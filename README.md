@@ -31,7 +31,7 @@ az login
 
 **2. Clone this repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/terraform-tutorials.git
+git clone https://github.com/mesutayanoglu/terraform-lab-appgw
 cd terraform-tutorials
 ```
 
