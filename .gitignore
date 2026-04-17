@@ -1,7 +1,10 @@
 terraform.tfvars
 .terraform/
 *.tfstate
-*.tfstate.backup.DS_Store
+*.tfstate.backup
 .DS_Store
 *.log
 *.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
