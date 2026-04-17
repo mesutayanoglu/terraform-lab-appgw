@@ -32,7 +32,7 @@ az login
 **2. Clone this repository**
 ```bash
 git clone https://github.com/mesutayanoglu/terraform-lab-appgw
-cd terraform-tutorials
+cd terraform-lab-appgw
 ```
 
 **3. Create terraform.tfvars file**
